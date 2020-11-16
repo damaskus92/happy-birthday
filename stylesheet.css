@@ -1316,26 +1316,26 @@ audio {
 		}
 
 		#b11 {
-			left: 0px;
+			left: 0px !important;
 		}
 
 		#b22 {
-			left: 60px;
+			left: 60px !important;
 		}
 
 		#b33 {
-			left: 120px;
+			left: 120px !important;
 		}
 
 		#b44 {
-			left: 175px;
+			left: 175px !important;
 		}
 
 		#b55 {
-			left: 235px;
+			left: 235px !important;
 		}
 
 		#b66 {
-			left: 290px;
+			left: 290px !important;
 		}
     }
